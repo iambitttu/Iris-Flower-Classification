@@ -1,4 +1,4 @@
-# Iris Flower Data Set
+# Iris Flower Classification
 
 ## Introduction
 The data set aims to quantify the morphological variation of Iris flowers from three related species: Iris Setosa, Iris Virginica, and Iris Versicolor. Measurements were taken from 50 samples of each species, with four features recorded for each sample: sepal length, sepal width, petal length, and petal width. 
